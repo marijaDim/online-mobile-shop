@@ -1,4 +1,4 @@
 # prodavnica-postavka
 
 
-postavka prodavnice, vezba
+postavka prodavnice, vezba json, funkcije za filtriranje prozivoda
