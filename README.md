@@ -1,4 +1,6 @@
 # prodavnica-postavka
 
 
-postavka prodavnice, vezba json, funkcije za filtriranje prozivoda
+
+
+set up online store, practice json, functions for filtering the procucts
