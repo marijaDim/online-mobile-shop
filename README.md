@@ -1,6 +1,8 @@
-online shop practice
+online mobile shop practice
+---Dynamic Content && Filtering && Sorting
 
 
 
-
-set up online store, practice json, functions for filtering the procucts
+set up online mobile store, 
+practice json, 
+functions for filtering the procucts
